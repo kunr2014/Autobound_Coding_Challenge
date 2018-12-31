@@ -1,0 +1,11 @@
+delete from company;
+insert into company values (1, 'Facebook');
+insert into company values (2,'Okta');
+insert into company values (3,'Xactly');
+insert into company values (4,'WeWork');
+insert into company values (5,'8 x 8');
+insert into company values (6,'SynapseFI');
+insert into company values (7,'Apptemize');
+insert into company values (8,'Uber');
+insert into company values (9,'Gusto');
+insert into company values (10,'HelloSign');
